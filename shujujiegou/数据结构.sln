@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线性表", "线性表\线性表.csproj", "{9AD609B0-6D10-4984-8AEA-DC820EB7AAD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002-栈", "002-栈\002-栈.csproj", "{09B49D5A-C102-4018-BDE2-E6230E3BB94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-队列", "003-队列\003-队列.csproj", "{13160EEA-F90C-426A-8D59-496E9C05D235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD609B0-6D10-4984-8AEA-DC820EB7AAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD609B0-6D10-4984-8AEA-DC820EB7AAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD609B0-6D10-4984-8AEA-DC820EB7AAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD609B0-6D10-4984-8AEA-DC820EB7AAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B49D5A-C102-4018-BDE2-E6230E3BB94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B49D5A-C102-4018-BDE2-E6230E3BB94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B49D5A-C102-4018-BDE2-E6230E3BB94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B49D5A-C102-4018-BDE2-E6230E3BB94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13160EEA-F90C-426A-8D59-496E9C05D235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13160EEA-F90C-426A-8D59-496E9C05D235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13160EEA-F90C-426A-8D59-496E9C05D235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13160EEA-F90C-426A-8D59-496E9C05D235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

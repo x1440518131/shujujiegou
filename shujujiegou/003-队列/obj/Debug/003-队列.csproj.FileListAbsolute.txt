@@ -1,0 +1,6 @@
+D:\Personal\Desktop\线性表\003-队列\bin\Debug\003-队列.exe.config
+D:\Personal\Desktop\线性表\003-队列\bin\Debug\003-队列.exe
+D:\Personal\Desktop\线性表\003-队列\bin\Debug\003-队列.pdb
+D:\Personal\Desktop\线性表\003-队列\obj\Debug\003-队列.csprojResolveAssemblyReference.cache
+D:\Personal\Desktop\线性表\003-队列\obj\Debug\003-队列.exe
+D:\Personal\Desktop\线性表\003-队列\obj\Debug\003-队列.pdb
